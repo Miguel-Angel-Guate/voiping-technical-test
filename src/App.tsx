@@ -1,5 +1,4 @@
-import { useState } from 'react'
-import './App.css'
+import { useState } from 'react';
 import TodoItem from './components/TodoItem'
 import { Todo } from './inteerface/todoInterface';
 
